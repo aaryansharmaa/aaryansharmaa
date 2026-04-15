@@ -15,4 +15,4 @@ TypeScript · React · React Native · Next.js · Node.js · Supabase · Claude 
 
 ---
 
-*"Shipping, failing, iterating"*
+*Shipping, failing, iterating*
